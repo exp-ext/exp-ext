@@ -9,9 +9,9 @@ I program in Python. At the moment I am studying at Yandex Practicum, and create
 http://ext.pythonanywhere.com
 
 In the process of work, I superficially mastered the technology:
-Django,
+![https://corehitechsolutions.com/wp-content/uploads/2021/02/Python-Django-1.jpg]Django,
 HTML,
-SSS,
+CSS,
 Bootstrap.
 
 I learned how to work with Docker, and with something else there.
