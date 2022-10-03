@@ -1,6 +1,7 @@
 # Hi! I'm human, for now 👻
 
-I love to create 🤖. And programming has become the meaning of life for me ⌨️. 
+I love to create 🤖. 
+And programming has become the meaning of life for me ⌨️. 
 However, this understanding came to me quite recently 🤷‍♂️.
 
 I program in Python. At the moment I am studying at Yandex Practicum, and created my first prototype of the site in the first months of training:
