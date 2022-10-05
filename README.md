@@ -12,11 +12,10 @@ http://ext.pythonanywhere.com
 
 
 In the process of work, I superficially mastered the technology:
-
-[Django](https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png),
-HTML,
-CSS,
-Bootstrap.
+## Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:200px;"/>
+## HTML
+## CSS
+## Bootstrap
 
 I learned how to work with Docker, and with something else there.
 
