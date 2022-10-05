@@ -24,7 +24,7 @@ I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/24
 But that wasn't enough and I created a TODO telegram bot for my family:
 https://github.com/exp-ext/family_bot/
 
-My operating system is <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:25px;"/>. And I just really fell in love with Unix systems.
+My operating system is <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:50px;"/>. And I just really fell in love with Unix systems.
 
 In fact, in programming, I have a lot of plans. But to implement them, you need a team and a lot of money 💵
 
