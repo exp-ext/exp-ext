@@ -19,7 +19,7 @@ In the process of working, I mastered the technology:
   <li> Bootstrap  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" style="width:25px;"/></li>
 </ul> 
 
-I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" style="width:25px;"/>, Githab <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="Githab" style="width:25px;"/> and with something else there.
+I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" style="width:25px;"/>, Githab <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" alt="Githab" style="width:25px;"/> and with something else there.
 
 But that wasn't enough and I created a TODO telegram bot for my family:
 https://github.com/exp-ext/family_bot/
