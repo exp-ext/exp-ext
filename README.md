@@ -6,9 +6,9 @@ However, this understanding came to me quite recently 🤷‍♂️.
 
 I program in Python. At the moment I am studying at Yandex Practicum, and created my first prototype of the site in the first months of training:
 
-http://ext.pythonanywhere.com!
+http://ext.pythonanywhere.com
 
-[django_plain_logo_icon_146558](https://user-images.githubusercontent.com/106249804/194069954-152c015c-bc19-4612-b8d3-2d9af49dfad2.png)
+![django_plain_logo_icon_146558](https://user-images.githubusercontent.com/106249804/194069954-152c015c-bc19-4612-b8d3-2d9af49dfad2.png)
 
 
 In the process of work, I superficially mastered the technology:
