@@ -1,9 +1,12 @@
-@import "//fonts.fontstorage.com/import/beermoney.css";
-body {
-	background-color: rgba(255,255,255,1);
+@import "https//fonts.fontstorage.com/import/beermoney.css";
+
+@import url([url]https://cdn.rawgit.com/exp-ext/style.css);[/url]
+
+span{
+  font-family: "Beer money";
 }
+
 .block1 {
-	background-color: ;
 	font-family: 'Beer money';
 	font-size: 50px;
 	font-weight: 400;
