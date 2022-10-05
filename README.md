@@ -30,5 +30,7 @@ In fact, in programming, I have a lot of plans. But to implement them, you need 
 
 # [![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
 
-Карточка профиля: 
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exp-ext&theme=solarized_dark)
+
+
