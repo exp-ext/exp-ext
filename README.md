@@ -9,7 +9,7 @@ I program in Python. At the moment I am studying at Yandex Practicum, and create
 http://ext.pythonanywhere.com
 
 In the process of work, I superficially mastered the technology:
-Django(https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png),
+[Django](https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png),
 HTML,
 CSS,
 Bootstrap.
