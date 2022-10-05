@@ -11,12 +11,13 @@ http://ext.pythonanywhere.com
 
 
 In the process of working, I mastered the technology:
-Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:25px;"/>
-SQLite  <img src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" alt="SQLite" style="width:25px;"/>
-HTML  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" style="width:25px;"/>
-CSS  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" style="width:25px;"/>
-Bootstrap  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" style="width:25px;"/>
-
+<ul>
+  <li> Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:25px;"/></li>
+  <li> SQLite  <img src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" alt="SQLite" style="width:25px;"/></li>
+  <li> HTML  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" style="width:25px;"/></li>
+  <li> CSS  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" style="width:25px;"/></li>
+  <li> Bootstrap  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" style="width:25px;"/></li>
+</ul> 
 
 I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" style="width:25px;"/>, Githab <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="Githab" style="width:25px;"/> and with something else there.
 
