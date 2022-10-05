@@ -7,7 +7,7 @@ However, this understanding came to me quite recently 🤷‍♂️.
 I program in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/>. At the moment I am studying at Yandex Practicum, and created my first prototype of the site in the first months of training:
 
 
-http://ext.pythonanywhere.com
+### [𝓱𝓽𝓽𝓹://𝓮𝔁𝓽.𝓹𝔂𝓽𝓱𝓸𝓷𝓪𝓷𝔂𝔀𝓱𝓮𝓻𝓮.𝓬𝓸𝓶](http://ext.pythonanywhere.com)
 
 
 In the process of working, I mastered the technology:
@@ -22,7 +22,8 @@ In the process of working, I mastered the technology:
 I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" style="width:25px;"/>, Githab <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/git_original_wordmark_logo_icon_146510.png" alt="Githab" style="width:25px;"/> and with something else there.
 
 But that wasn't enough and I created a TODO telegram bot for my family:
-https://github.com/exp-ext/family_bot/
+
+### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝓯𝓪𝓶𝓲𝓵𝔂_𝓫𝓸𝓽/](https://github.com/exp-ext/family_bot)
 
 My operating system is <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:75px;"/>. And I just really fell in love with Unix systems.
 
