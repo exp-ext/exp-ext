@@ -1,3 +1,5 @@
+@import "https://fonts.fontstorage.com/import/beermoney.css";
+
 <link rel="stylesheet" href="https://fonts.fontstorage.com/import/beermoney.css" type="text/css">
 
 # Hi! I'm human, so far 👻
