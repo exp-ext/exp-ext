@@ -6,20 +6,22 @@ However, this understanding came to me quite recently 🤷‍♂️.
 
 I program in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/>. At the moment I am studying at Yandex Practicum, and created my first prototype of the site in the first months of training:
 
+
 http://ext.pythonanywhere.com
 
 
-In the process of work, I superficially mastered the technology:
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:25px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" style="width:25px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" style="width:25px;"/>
-  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" style="width:25px;"/>
+In the process of working, I mastered the technology:
+Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:25px;"/>
+SQLite  <img src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" alt="SQLite" style="width:25px;"/>
+HTML  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" style="width:25px;"/>
+CSS  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" style="width:25px;"/>
+Bootstrap  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" style="width:25px;"/>
 
 
-I learned how to work with Docker, and with something else there.
+I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/docker_original_wordmark_logo_icon_146557.png" alt="Docker" style="width:25px;"/>, Githab <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/github_original_wordmark_logo_icon_146506.png" alt="Githab" style="width:25px;"/> and with something else there.
 
 But that wasn't enough and I created a TODO telegram bot for my family:
-https://github.com/exp-ext/family_bot.git
+https://github.com/exp-ext/family_bot/
 
 In fact, in programming, I have a lot of plans. But to implement them, you need a team and a lot of money 💵
 
