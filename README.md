@@ -27,4 +27,4 @@ https://github.com/exp-ext/family_bot/
 In fact, in programming, I have a lot of plans. But to implement them, you need a team and a lot of money 💵
 
 
-[![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
+# [![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
