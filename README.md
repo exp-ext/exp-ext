@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://fontstorage.com/polygon/g2NqJe7Rc2" type="text/css">
+<link rel="stylesheet" href="https://fonts.fontstorage.com/import/beermoney.css" type="text/css">
 
 # Hi! I'm human, so far 👻
 
