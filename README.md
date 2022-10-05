@@ -9,7 +9,7 @@ I program in Python. At the moment I am studying at Yandex Practicum, and create
 http://ext.pythonanywhere.com
 
 In the process of work, I superficially mastered the technology:
-Django,
+Django(https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png),
 HTML,
 CSS,
 Bootstrap.
@@ -21,3 +21,5 @@ https://github.com/exp-ext/family_bot.git
 
 In fact, in programming, I have a lot of plans. But to implement them, you need a team and a lot of money 💵
 
+
+[![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
