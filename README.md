@@ -11,7 +11,8 @@ http://ext.pythonanywhere.com
 
 In the process of work, I superficially mastered the technology:
 ## <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:100px;"/>
-## HTML
+## HTML ![image](https://user-images.githubusercontent.com/106249804/194072033-69d7d869-0d26-4c74-8e36-cd3f7c9fd77a.png)
+
 ## CSS
 ## Bootstrap
 
