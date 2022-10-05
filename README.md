@@ -8,11 +8,9 @@ I program in Python. At the moment I am studying at Yandex Practicum, and create
 
 http://ext.pythonanywhere.com
 
-![django_plain_logo_icon_146558](https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png)
-
 
 In the process of work, I superficially mastered the technology:
-## Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:200px;"/>
+## Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:100px;"/>
 ## HTML
 ## CSS
 ## Bootstrap
