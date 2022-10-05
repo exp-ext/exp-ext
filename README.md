@@ -1,4 +1,4 @@
-# Hi! I'm human, so far 👻
+# 𝐻𝒾! 𝐼'𝓂 𝒽𝓊𝓂𝒶𝓃, 𝓈𝑜 𝒻𝒶𝓇 👻
 
 I love to create 🤖. 
 And programming has become the meaning of life for me ⌨️. 
@@ -29,6 +29,8 @@ My operating system is <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/
 In fact, in programming, I have a lot of plans. But to implement them, you need a team and a lot of money 💵
 
 # [![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
+
+
 
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exp-ext&theme=solarized_dark)
