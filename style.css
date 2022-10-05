@@ -1,0 +1,20 @@
+@import "//fonts.fontstorage.com/import/beermoney.css";
+body {
+	background-color: rgba(255,255,255,1);
+}
+.block1 {
+	background-color: ;
+	font-family: 'Beer money';
+	font-size: 50px;
+	font-weight: 400;
+	line-height: 1em;
+	margin: 0px 0px 20px 0px;
+	width: 700px;
+}
+.block2 {
+	font-family: 'Beer money';
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 1.5em;
+	width: 700px;
+}
