@@ -24,7 +24,7 @@ I learned how to work with Docker <img src="https://cdn.icon-icons.com/icons2/24
 
 But that wasn't enough and I created a TODO telegram bot for my family:
 
-### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝔀𝓮𝓫𝓱𝓸𝓸𝓴_𝓫𝓸𝓽](https://github.com/exp-ext/webhook_bot)
+### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝔀𝓮𝓫𝓱𝓸𝓸𝓴_𝓫𝓸𝓽](https://github.com/exp-ext/ToDoDjangoTelBot)
 
 My operating system is <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:75px;"/>. And I just really fell in love with Unix systems.
 
