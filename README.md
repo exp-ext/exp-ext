@@ -9,6 +9,7 @@ I program in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/pyt
 At the moment I am using technology:
 <ul>
   <li> Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:35px;"/></li>
+  <li> Django REST framework  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST" style="width:35px;"/></li>  
   <li> SQLite  <img src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" alt="SQLite" style="width:25px;"/></li>
   <li> PostgreSQL <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" alt="PostgreSQL" style="width:25px;"/></li>
   <li> HTML  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" style="width:25px;"/></li>
