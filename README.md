@@ -1,12 +1,8 @@
-# 𝐻𝒾! 𝐼'𝓂 𝒽𝓊𝓂𝒶𝓃, 𝓈𝑜 𝒻𝒶𝓇 👻
+Hello there!
 
-I love to create 🤖. 
-And programming has become the meaning of life for me ⌨️. 
-However, this understanding came to me quite recently 🤷‍♂️.
+My name is Andrey, and I am a passionate programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/> while also looking forward to learning JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/8/0/e/80ec046c929af5dc31f38d6ce08ae6ce.png" alt="Python" style="width:25px;"/>.
 
-I program in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/> and want to learn Java Script <img src="https://fuzeservers.ru/wp-content/uploads/8/0/e/80ec046c929af5dc31f38d6ce08ae6ce.png" alt="Python" style="width:25px;"/> in the near future.
-
-At the moment I am using technology:
+I am well-versed in various technologies, including:
 <ul>
   <li> Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:35px;"/></li>
   <li> Django REST framework  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST" style="width:35px;"/></li>  
@@ -20,12 +16,11 @@ At the moment I am using technology:
   <li> Celery <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="CSS" style="width:25px;"/></li>
 </ul> 
 
-In 2022-2023, I studied at Yandex-Practicum. But besides their projects, I have my pet-project:
+I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. I also have a personal pet-project that I am currently working on:
 
 ### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝓫𝓸𝓽](https://github.com/exp-ext/ToDoDjangoTelBot)
 
-My operating system is <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:75px;"/>.
-
+When it comes to my operating system, I use <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:75px;"/>. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life. Thank you for taking the time to read my introduction!
 
 # [![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
 
