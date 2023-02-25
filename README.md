@@ -20,7 +20,7 @@ At the moment I am using technology:
   <li> Celery <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="CSS" style="width:25px;"/></li>
 </ul> 
 
-In 2022-2023, I studied at Yandex-Practicum. But besides their projects, I have my own:
+In 2022-2023, I studied at Yandex-Practicum. But besides their projects, I have my pet-project:
 
 ### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝓫𝓸𝓽](https://github.com/exp-ext/ToDoDjangoTelBot)
 
