@@ -1,8 +1,8 @@
 Hello there!
 
 My name is Andrey, and I am a passionate programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/> while also looking forward to learning JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/8/0/e/80ec046c929af5dc31f38d6ce08ae6ce.png" alt="Python" style="width:25px;"/>.
-
-
+</br>
+</br>
 I am well-versed in various technologies, including:
 <ul>
   <li> Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:35px;"/></li>
@@ -16,7 +16,8 @@ I am well-versed in various technologies, including:
   <li> Redis <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" alt="CSS" style="width:25px;"/></li>
   <li> Celery <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="CSS" style="width:25px;"/></li>
 </ul> 
-
+</br>
+</br>
 I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. I also have a personal pet-project that I am currently working on:
 
 ### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝓫𝓸𝓽](https://github.com/exp-ext/ToDoDjangoTelBot)
