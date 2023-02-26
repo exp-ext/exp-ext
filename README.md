@@ -18,9 +18,14 @@ I am well-versed in various technologies, including:
 </ul> 
 </br>
 </br>
-I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. I also have a personal pet-project that I am currently working on:
+I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:
+### [Algorithms](https://github.com/exp-ext/algorithms)
+### [API_yamdb](https://github.com/exp-ext/infra_sp2)
+### [API_yatube](https://github.com/exp-ext/api_final_yatube)
+### [yatube](https://github.com/exp-ext/yatube)
 
-### [𝓱𝓽𝓽𝓹𝓼://𝓰𝓲𝓽𝓱𝓾𝓫.𝓬𝓸𝓶/𝓮𝔁𝓹-𝓮𝔁𝓽/𝓫𝓸𝓽](https://github.com/exp-ext/ToDoDjangoTelBot)
+I also have a personal pet-project that I am currently working on:
+### [ToDoDjangoTelegramBot](https://github.com/exp-ext/ToDoDjangoTelBot)
 
 When it comes to my operating system, I use <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:75px;"/>. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life. Thank you for taking the time to read my introduction!
 
