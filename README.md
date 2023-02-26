@@ -1,6 +1,6 @@
 <strong>Hello there!</strong>
 
-My name is Andrey, and I am a passionate programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/> while also looking forward to learning JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/8/0/e/80ec046c929af5dc31f38d6ce08ae6ce.png" alt="Python" style="width:25px;"/>.
+My name is Andrey, and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/> while also looking forward to learning JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/8/0/e/80ec046c929af5dc31f38d6ce08ae6ce.png" alt="Python" style="width:25px;"/>.
 </br>
 </br>
 I am well-versed in various technologies, including:
@@ -26,7 +26,7 @@ I studied at Yandex-Practicum, where I gained invaluable experience working on v
   <li><a href="https://github.com/exp-ext/yatube">yatube</a></li>
 </ul> 
 
-I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained::
+I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:
 <ul>
   <li><strong><a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDoDjangoTelegramBot</a></strong></li>
 </ul> 
