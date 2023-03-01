@@ -28,7 +28,7 @@
 </li>
 </ul>
 
-<p>When it comes to my operating system, I use Ubuntu. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life. Thank you for taking the time to read my introduction!</p>
+<p>When it comes to my operating system, I use Ubuntu. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life.</p>
 
 <p>&nbsp;</p>
 <a href="https://t.me/Borokin" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-Messaging-blue" /></a>
