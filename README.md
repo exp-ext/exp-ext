@@ -1,5 +1,5 @@
 <h2>Hello there!</h2>
-<p>My name is Andrey, and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python while also looking forward to learning JavaScript.</p>
+<p>My name is Andrey and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python while also looking forward to learning JavaScript.</p>
 <p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
   <li>
