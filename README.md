@@ -3,20 +3,21 @@
 <p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
   <li>
-  <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
-  <a href="https://github.com/exp-ext/algorithms">Algorithms</a> 
+    <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
+    <a href="https://github.com/exp-ext/algorithms">Algorithms</a> 
   </li>
-<li>
-   <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API_yamdb" width="16 height="16" />
-   <a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a></li>
-<li>
-  <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16 height="16" />
-  <a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a>
+  <li>
+     <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API_yamdb" width="16 height="16" />
+     <a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a>
+  </li>
+  <li>
+    <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
+    <a href="https://github.com/exp-ext/yatube">yatube</a>
+  </li>
+  <li>
+    <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16 height="16" />
+    <a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a>
  </li>
-<li>
-  <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
-  <a href="https://github.com/exp-ext/yatube">yatube</a>
-</li>
 </ul>
 <p>I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:</p>
 <ul>
