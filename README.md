@@ -2,9 +2,17 @@
 <p>My name is Andrey, and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python while also looking forward to learning JavaScript.</p>
 <p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
-<li><a href="https://github.com/exp-ext/algorithms">Algorithms</a></li>
-<li><a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a></li>
-<li><a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a></li>
+  <li>
+  <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
+  <a href="https://github.com/exp-ext/algorithms">Algorithms</a> 
+  </li>
+<li>
+   <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API_yamdb" width="16 height="16" />
+   <a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a></li>
+<li>
+  <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16 height="16" />
+  <a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a>
+ </li>
 <li>
   <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
   <a href="https://github.com/exp-ext/yatube">yatube</a>
