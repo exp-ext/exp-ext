@@ -1,41 +1,51 @@
-<strong>Hello there!</strong>
-
-My name is Andrey, and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/python_original_logo_icon_146381.png" alt="Python" style="width:25px;"/> while also looking forward to learning JavaScript <img src="https://fuzeservers.ru/wp-content/uploads/8/0/e/80ec046c929af5dc31f38d6ce08ae6ce.png" alt="Python" style="width:25px;"/>.
-</br>
-</br>
-I am well-versed in various technologies, including:
+<h2>Hello there!</h2>
+<p>My name is Andrey, and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python while also looking forward to learning JavaScript.</p>
+<p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
-  <li> Django  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/django_plain_logo_icon_146558.png" alt="Django" style="width:35px;"/></li>
-  <li> Django REST framework  <img src="https://www.django-rest-framework.org/img/logo.png" alt="Django REST" style="width:35px;"/></li>  
-  <li> SQLite  <img src="https://cdn.icon-icons.com/icons2/9/PNG/256/sql_racer_gamedatabase_sql_1526.png" alt="SQLite" style="width:25px;"/></li>
-  <li> PostgreSQL <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/postgresql_logo_icon_170835.png" alt="PostgreSQL" style="width:25px;"/></li>
-  <li> HTML  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/html_original_wordmark_logo_icon_146478.png" alt="HTML" style="width:25px;"/></li>
-  <li> CSS  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/css_original_wordmark_logo_icon_146576.png" alt="CSS" style="width:25px;"/></li>
-  <li> Bootstrap  <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/bootstrap_plain_wordmark_logo_icon_146620.png" alt="Bootstrap" style="width:25px;"/></li>
-  <li> Docker & Docker-compose <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="CSS" style="width:25px;"/></li>
-  <li> Redis <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/redis_original_logo_icon_146368.png" alt="CSS" style="width:25px;"/></li>
-  <li> Celery <img src="https://docs.celeryq.dev/en/stable/_static/celery_512.png" alt="CSS" style="width:25px;"/></li>
-</ul> 
-</br>
-</br>
-I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:
+<li><a href="https://github.com/exp-ext/algorithms">Algorithms</a></li>
+<li><a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a></li>
+<li><a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a></li>
+<li>
+  <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
+  <a href="https://github.com/exp-ext/yatube">yatube</a>
+</li>
+</ul>
+<p>I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:</p>
 <ul>
-  <li><a href="https://github.com/exp-ext/algorithms">Algorithms</a></li>
-  <li><a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a></li>
-  <li><a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a></li>
-  <li><a href="https://github.com/exp-ext/yatube">yatube</a></li>
-</ul> 
+<li>
+  <strong>  
+    <img src="https://github.com/exp-ext/ToDoDjangoTelBot/blob/master/todo/static/img/fav/favicon-32x32.png" alt="todo" width="16 height="16" />
+    <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDoDjangoTelegramBot</a>
+  </strong>
+</li>
+</ul>
 
-I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:
-<ul>
-  <li><strong><a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDoDjangoTelegramBot</a></strong></li>
-</ul> 
+<p>When it comes to my operating system, I use Ubuntu. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life. Thank you for taking the time to read my introduction!</p>
 
-When it comes to my operating system, I use <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ubuntu_src_logo_icon_168374.png" alt="Ubuntu" style="width:75px;"/>. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life. Thank you for taking the time to read my introduction!
+<p>&nbsp;</p>
+<a href="https://t.me/Borokin" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-Messaging-blue" /></a>
 
-# [![Join Telegram](https://img.shields.io/badge/My%20Telegram-Join-blue)](https://t.me/Borokin)
+<hr />
+<h3> :hammer_and_wrench: Languages and Tools : </h3>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  alt="nginx" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="subversion" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" "bash" width="40" height="40" />          
+</p>   
+          
 
+<p>&nbsp;</p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exp-ext&theme=solarized_dark)
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exp-ext&amp;theme=solarized_dark)
 
