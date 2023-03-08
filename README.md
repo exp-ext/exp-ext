@@ -8,7 +8,7 @@
   </li>
   <li>
      <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API_yamdb" width="16 height="16" />
-     <a href="https://github.com/exp-ext/infra_sp2">API_yamdb</a>
+     <a href="https://github.com/exp-ext/yamdb_final">API_yamdb</a>
   </li>
   <li>
     <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
