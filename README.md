@@ -3,10 +3,6 @@
 <p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
   <li>
-    <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
-    <a href="https://github.com/exp-ext/algorithms">Algorithms</a> 
-  </li>
-  <li>
      <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API_yamdb" width="16 height="16" />
      <a href="https://github.com/exp-ext/yamdb_final">API_yamdb</a>
   </li>
@@ -28,7 +24,14 @@
   </strong>
 </li>
 </ul>
-
+<p>My solutions to some algorithms</p>
+<ul>
+  <li>
+    <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
+    <a href="https://github.com/exp-ext/algorithms">algorithms</a> 
+  </li>
+</ul>
+                                                   
 <p>When it comes to my operating system, I use Ubuntu. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life.</p>
 
 <p>&nbsp;</p>
