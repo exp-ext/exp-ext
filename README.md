@@ -24,7 +24,7 @@
   </strong>
 </li>
 </ul>
-<p>My solutions to some algorithms</p>
+<p>My solutions to some algorithms:</p>
 <ul>
   <li>
     <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
