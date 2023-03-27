@@ -3,8 +3,12 @@
 <p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
   <li>
-     <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API_yamdb" width="16 height="16" />
-     <a href="https://github.com/exp-ext/yamdb_final">API_yamdb</a>
+     <img src="https://cdn.pixabay.com/photo/2015/10/24/17/43/crustacean-1004744_960_720.png" alt="API_yamdb" width="16 height="16" />
+     <a href="https://github.com/exp-ext/foodgram-project-react">foodgram project</a>
+  </li>
+  <li>
+     <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API yamdb" width="16 height="16" />
+     <a href="https://github.com/exp-ext/yamdb_final">API yamdb</a>
   </li>
   <li>
     <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
@@ -12,7 +16,7 @@
   </li>
   <li>
     <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16 height="16" />
-    <a href="https://github.com/exp-ext/api_final_yatube">API_yatube</a>
+    <a href="https://github.com/exp-ext/api_final_yatube">API yatube</a>
  </li>
 </ul>
 <p>I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:</p>
@@ -20,7 +24,7 @@
 <li>
   <strong>  
     <img src="https://github.com/exp-ext/ToDoDjangoTelBot/blob/master/todo/static/img/fav/favicon-32x32.png" alt="todo" width="16 height="16" />
-    <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDoDjangoTelegramBot</a>
+    <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDo Telegram bot</a>
   </strong>
 </li>
 </ul>
