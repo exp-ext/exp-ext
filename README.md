@@ -39,8 +39,6 @@
   </li>
 </ul>
                                                    
-<p>When it comes to my operating system, I use Ubuntu. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life.</p>
-
 
 
 <div align="center">  
