@@ -1,5 +1,8 @@
-<h2>Hello there!</h2>
-<p>My name is Andrey and I am programmer with a keen interest in robotics. Programming has become the driving force behind my life, and I have been honing my skills in Python while also looking forward to learning JavaScript.</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Andrey%20Borokin&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+=+Andrey+Borokin;MY+SPECIALIZATION+=+Python+Development;MY+EXPERIENCE+>+1+YEAR+IN+PROGRAMMING)
+
+
 <p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
 <ul>
   <li>
@@ -38,33 +41,39 @@
                                                    
 <p>When it comes to my operating system, I use Ubuntu. I am constantly exploring new ideas and technologies to further develop my skills and bring my programming projects to life.</p>
 
-<p>&nbsp;</p>
-<a href="https://t.me/Borokin" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Telegram-Messaging-blue" /></a>
 
-<hr />
-<h3> :hammer_and_wrench: Languages and Tools : </h3>
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" alt="Python" width="40" height="40" />
-  <img src="https://cdn3.iconfinder.com/data/icons/flat-design-development-set-1/24/file-type-vba-512.png" alt="vba" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
-  <img src="https://media.slid.es/uploads/708405/images/4005243/django_rest_500x500.png" alt="Django" width="40" height="40" />                           
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="SQLite" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" />
-  <img src="https://new.nightdeveloper.net/wp-content/uploads/2017/02/celery_512-512x400.png" alt="celery" width="50" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"  alt="nginx" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" alt="subversion" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" alt="ubuntu" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" "bash" width="40" height="40" />          
-</p>   
-          
 
-<p>&nbsp;</p>
+<div align="center">  
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=exp-ext&amp;theme=solarized_dark)
+<img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=exp-ext&theme=react-dark&hide_border=true&area=true&radius=7" />
+  
+  
+<img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=exp-ext&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="exp-ext github stats" />
 
+<img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exp-ext&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+
+<img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=exp-ext&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="exp-ext github stats" />
+
+<img height="40px" width="400px" src="https://www.codewars.com/users/exp-ext/badges/large" alt="Codewars badge" />
+
+
+  <h3 > Main Skills </h3>
+  <img src="https://skillicons.dev/icons?i=python,html,css,django,bootstrap,postgres,redis,sqlite" />
+
+  <h3> Tools </h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,nginx,postman,sentry" />
+  
+  <h3> Other Knowledge </h3>
+  <img src="https://skillicons.dev/icons?i=bash,js,raspberrypi,heroku" />
+  
+  <h3> </h3>
+  
+<a href="https://exp-ext.github.io/portfolio/"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/borokin/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://telegram.me/Borokin"><img src="https://img.shields.io/badge/telegram-2AABEE?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+<a href="https://wa.me/+79818605636"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
