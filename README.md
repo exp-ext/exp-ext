@@ -46,7 +46,7 @@
     <a href="https://github.com/exp-ext/django_aiogram_tgbot">django aiogram tgbot</a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/arcade/64/null/bot.png" alt="python-telegram-bot" width="16 height="16" />
+    <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/null/external-robot-artificial-intelligence-icongeek26-outline-colour-icongeek26-3.png" alt="python-telegram-bot" width="16 height="16" />
     <a href="https://github.com/exp-ext/django_ptb ">django python-telegram-bot</a> 
   </li>
 </ul>
@@ -61,6 +61,8 @@
 
 <img width="41%" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=exp-ext&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 
+  
+  
 <img height="auto" width="91%" src="https://github-readme-streak-stats.herokuapp.com/?user=exp-ext&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="exp-ext github stats" />
 
 <img height="40px" width="400px" src="https://www.codewars.com/users/exp-ext/badges/large" alt="Codewars badge" />
