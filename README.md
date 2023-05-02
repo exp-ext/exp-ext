@@ -46,8 +46,8 @@
     <a href="https://github.com/exp-ext/django_aiogram_tgbot">django aiogram tgbot</a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/arcade/64/null/bot.png" alt="algorithm" width="16 height="16" />
-    <a href="https://github.com/exp-ext/django_ptb ">django aiogram tgbot</a> 
+    <img src="https://img.icons8.com/arcade/64/null/bot.png" alt="python-telegram-bot" width="16 height="16" />
+    <a href="https://github.com/exp-ext/django_ptb ">django python-telegram-bot</a> 
   </li>
 </ul>
 
