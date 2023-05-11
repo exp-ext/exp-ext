@@ -42,6 +42,10 @@
     <img src="https://img.icons8.com/doodle/48/null/large-tree.png" alt="algorithm" width="16 height="16" />
     <a href="https://github.com/exp-ext/treemenu">tree menu</a> 
   </li>
+  <li>
+    <img src="https://img.icons8.com/nolan/64/calculator--v1.png" alt="calculator" width="16 height="16" />
+    <a href="https://github.com/exp-ext/calculator">pattern calculator</a> 
+  </li>
 </ul>
 
 <p>Templates for development:</p>
