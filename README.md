@@ -61,8 +61,8 @@
 </ul>
 
 <div align="center">  
-
-<img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=exp-ext&theme=react-dark&hide_border=true&area=true&radius=7" />
+<!-- 
+<img width="90%" src="https://github-readme-activity-graph.cyclic.app/graph?username=exp-ext&theme=react-dark&hide_border=true&area=true&radius=7" /> -->
   
   
 <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=exp-ext&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="exp-ext github stats" />
