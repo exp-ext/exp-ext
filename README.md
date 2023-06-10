@@ -58,6 +58,10 @@
     <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/null/external-robot-artificial-intelligence-icongeek26-outline-colour-icongeek26-3.png" alt="python-telegram-bot" width="16 height="16" />
     <a href="https://github.com/exp-ext/django_ptb ">django python-telegram-bot</a> 
   </li>
+  <li>
+    <img src="https://img.icons8.com/stickers/100/rich-text-converter.png" alt="python-telegram-bot" width="16 height="16" />
+    <a href="https://github.com/exp-ext/drf_project_template/tree/main/backend/api/management/commands">management command to convert data from a file to Django model</a> 
+  </li>
 </ul>
 
 <div align="center">  
