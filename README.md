@@ -81,10 +81,10 @@
 
 
   <h3 > Main Skills </h3>
-  <img src="https://skillicons.dev/icons?i=python,html,css,django,bootstrap,postgres,redis,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,html,css,django,fastapi,bootstrap,postgres,redis,sqlite" />
 
   <h3> Tools </h3>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,linux,nginx,postman,sentry" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,gitlab,docker,linux,nginx,postman,sentry" />
   
   <h3> Other Knowledge </h3>
   <img src="https://skillicons.dev/icons?i=bash,js,raspberrypi,heroku" />
