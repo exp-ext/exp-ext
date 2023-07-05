@@ -49,6 +49,10 @@
   <li>
     <img src="https://img.icons8.com/dusk/64/current-mobile-bank.png" alt="paychecks" width="16 height="16" />
     <a href="https://github.com/exp-ext/current_paychecks">current paychecks with FastAPI</a> 
+  </li>
+  <li>
+    <img src="https://img.icons8.com/fluency/48/test.png" alt="paychecks" width="16 height="16" />
+    <a href="https://github.com/exp-ext/aprbot">common test</a> 
   </li>  
 </ul>
 
