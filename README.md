@@ -53,6 +53,10 @@
   <li>
     <img src="https://img.icons8.com/fluency/48/test.png" alt="paychecks" width="16 height="16" />
     <a href="https://github.com/exp-ext/aprbot">common test</a> 
+  </li>
+  <li>
+    <img src="https://img.icons8.com/cute-clipart/64/triller-app.png" alt="social" width="16 height="16" />
+    <a href="https://github.com/exp-ext/social_network">social networking with FastAPI</a> 
   </li>  
 </ul>
 
