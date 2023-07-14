@@ -7,19 +7,19 @@
 <ul>
   <li>
      <img src="https://cdn.pixabay.com/photo/2015/10/24/17/43/crustacean-1004744_960_720.png" alt="API_yamdb" width="16 height="16" />
-     <a href="https://github.com/exp-ext/foodgram-project-react">foodgram project</a>
+     <a href="https://github.com/exp-ext/foodgram-project-react">foodgram project <strong>/ DRF</strong></a>
   </li>
   <li>
      <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API yamdb" width="16 height="16" />
-     <a href="https://github.com/exp-ext/yamdb_final">API yamdb</a>
+     <a href="https://github.com/exp-ext/yamdb_final">API yamdb <strong>/ DRF</strong></a>
   </li>
   <li>
     <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
-    <a href="https://github.com/exp-ext/yatube">yatube</a>
+    <a href="https://github.com/exp-ext/yatube">yatube <strong>/ Django</strong></a>
   </li>
   <li>
     <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16 height="16" />
-    <a href="https://github.com/exp-ext/api_final_yatube">API yatube</a>
+    <a href="https://github.com/exp-ext/api_final_yatube">API yatube <strong>/ DRF</strong></a>
  </li>
 </ul>
 <p>I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:</p>
@@ -27,7 +27,7 @@
 <li>
   <strong>  
     <img src="https://github.com/exp-ext/ToDoDjangoTelBot/blob/master/todo/static/img/fav/favicon-32x32.png" alt="todo" width="16 height="16" />
-    <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDo Telegram bot</a>
+    <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDo Telegram sistem <strong>/ Django</strong></a>
   </strong>
 </li>
 </ul>
@@ -40,15 +40,15 @@
   </li>
    <li>
     <img src="https://img.icons8.com/doodle/48/null/large-tree.png" alt="algorithm" width="16 height="16" />
-    <a href="https://github.com/exp-ext/treemenu">tree menu</a> 
+    <a href="https://github.com/exp-ext/treemenu">tree menu <strong>/ Django</strong></a> 
   </li>
   <li>
     <img src="https://img.icons8.com/nolan/64/calculator--v1.png" alt="calculator" width="16 height="16" />
-    <a href="https://github.com/exp-ext/calculator">pattern calculator</a> 
+    <a href="https://github.com/exp-ext/calculator">pattern calculator </a> 
   </li>
   <li>
     <img src="https://img.icons8.com/dusk/64/current-mobile-bank.png" alt="paychecks" width="16 height="16" />
-    <a href="https://github.com/exp-ext/current_paychecks">current paychecks with FastAPI</a> 
+    <a href="https://github.com/exp-ext/current_paychecks">current paychecks <strong>/ FastAPI</strong></a> 
   </li>
   <li>
     <img src="https://img.icons8.com/fluency/48/test.png" alt="paychecks" width="16 height="16" />
@@ -56,7 +56,7 @@
   </li>
   <li>
     <img src="https://img.icons8.com/cute-clipart/64/triller-app.png" alt="social" width="16 height="16" />
-    <a href="https://github.com/exp-ext/social_network">social networking with FastAPI</a> 
+    <a href="https://github.com/exp-ext/social_network">social networking <strong>/ FastAPI</strong></a> 
   </li>  
 </ul>
 
@@ -64,7 +64,7 @@
 <ul>
   <li>
     <img src="https://img.icons8.com/fluency/48/store-setting.png" alt="packer" width="16 height="16" />
-    <a href="https://github.com/hackathon-team-5/goods_packer">goods packer</a> 
+    <a href="https://github.com/hackathon-team-5/goods_packer">goods packer <strong>/ DRF</strong></a> 
   </li>
 </ul>
 
