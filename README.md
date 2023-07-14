@@ -46,10 +46,10 @@
     <img src="https://img.icons8.com/nolan/64/calculator--v1.png" alt="calculator" width="16 height="16" />
     <a href="https://github.com/exp-ext/calculator">pattern calculator</a> 
   </li>
-<!--   <li>
+  <li>
     <img src="https://img.icons8.com/dusk/64/current-mobile-bank.png" alt="paychecks" width="16 height="16" />
     <a href="https://github.com/exp-ext/current_paychecks">current paychecks with FastAPI</a> 
-  </li> -->
+  </li>
   <li>
     <img src="https://img.icons8.com/fluency/48/test.png" alt="paychecks" width="16 height="16" />
     <a href="https://github.com/exp-ext/aprbot">common test</a> 
