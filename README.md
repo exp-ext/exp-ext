@@ -3,7 +3,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+Andrey+Borokin;MY+SPECIALIZATION+Python+Development;MY+EXPERIENCE+>+1+YEAR+IN+PROGRAMMING)
 
 
-<p>I studied at Yandex-Practicum, where I gained invaluable experience working on various projects. The main ones are:</p>
+<p>Major training projects on which I gained invaluable experience:</p>
 <ul>
   <li>
      <img src="https://cdn.pixabay.com/photo/2015/10/24/17/43/crustacean-1004744_960_720.png" alt="API_yamdb" width="16 height="16" />
@@ -22,7 +22,7 @@
     <a href="https://github.com/exp-ext/api_final_yatube">API yatube <strong>/ DRF</strong></a>
  </li>
 </ul>
-<p>I also have a personal pet-project that I am currently working on, which integrates all the knowledge I have gained:</p>
+<p>Periodically I work on a personal project that combines many of my learnings:</p>
 <ul>
 <li>
   <strong>  
