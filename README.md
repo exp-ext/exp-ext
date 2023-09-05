@@ -22,12 +22,18 @@
     <a href="https://github.com/exp-ext/api_final_yatube">API yatube <strong>/ DRF</strong></a>
  </li>
 </ul>
-<p>Periodically I work on a personal project that combines many of my learnings:</p>
+<p>I work on personal projects from time to time, which combines many of my developments::</p>
 <ul>
 <li>
   <strong>  
     <img src="https://github.com/exp-ext/ToDoDjangoTelBot/blob/master/todo/static/img/fav/favicon-32x32.png" alt="todo" width="16 height="16" />
     <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDo Telegram sistem <strong>/ Django</strong></a>
+  </strong>
+</li>
+  <li>
+  <strong>  
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-doctors-medical-ecommerce-flaticons-lineal-color-flat-icons.png" alt="todo" width="16 height="16" />
+    <a href="https://github.com/exp-ext/ticket_gorzdrav"> GorZdrav parsing <strong>/ Selenium</strong></a>
   </strong>
 </li>
 </ul>
