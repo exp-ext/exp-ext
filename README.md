@@ -6,19 +6,19 @@
 <p>Major training projects on which I gained invaluable experience:</p>
 <ul>
   <li>
-     <img src="https://cdn.pixabay.com/photo/2015/10/24/17/43/crustacean-1004744_960_720.png" alt="API_yamdb" width="16 height="16" />
+     <img src="https://cdn.pixabay.com/photo/2015/10/24/17/43/crustacean-1004744_960_720.png" alt="API_yamdb" width="16" height="16" />
      <a href="https://github.com/exp-ext/foodgram-project-react">foodgram project <strong>/ DRF</strong></a>
   </li>
   <li>
-     <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API yamdb" width="16 height="16" />
+     <img src="https://img.icons8.com/clouds/100/null/api.png" alt="API yamdb" width="16" height="16" />
      <a href="https://github.com/exp-ext/yamdb_final">API yamdb <strong>/ DRF</strong></a>
   </li>
   <li>
-    <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16 height="16" />
+    <img src="https://github.com/exp-ext/yatube/blob/main/yatube/static/img/fav/favicon-32x32.png" alt="yatube" width="16" height="16" />
     <a href="https://github.com/exp-ext/yatube">yatube <strong>/ Django</strong></a>
   </li>
   <li>
-    <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16 height="16" />
+    <img src="https://img.icons8.com/external-smashingstocks-flat-smashing-stocks/66/null/external-API-cyber-security-and-ai-smashingstocks-flat-smashing-stocks.png" alt="API_yatube" width="16" height="16" />
     <a href="https://github.com/exp-ext/api_final_yatube">API yatube <strong>/ DRF</strong></a>
  </li>
 </ul>
@@ -26,13 +26,13 @@
 <ul>
 <li>
   <strong>  
-    <img src="https://github.com/exp-ext/ToDoDjangoTelBot/blob/master/todo/static/img/fav/favicon-32x32.png" alt="todo" width="16 height="16" />
+    <img src="https://github.com/exp-ext/ToDoDjangoTelBot/blob/master/todo/static/img/fav/favicon-32x32.png" alt="todo" width="16" height="16" />
     <a href="https://github.com/exp-ext/ToDoDjangoTelBot">ToDo Telegram sistem <strong>/ Django</strong></a>
   </strong>
 </li>
   <li>
   <strong>  
-    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-doctors-medical-ecommerce-flaticons-lineal-color-flat-icons.png" alt="todo" width="16 height="16" />
+    <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-doctors-medical-ecommerce-flaticons-lineal-color-flat-icons.png" alt="todo" width="16" height="16" />
     <a href="https://github.com/exp-ext/ticket_gorzdrav"> GorZdrav parsing <strong>/ Selenium</strong></a>
   </strong>
 </li>
@@ -41,27 +41,27 @@
 <p>My solutions to some algorithms and test cases:</p>
 <ul>
   <li>
-    <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16 height="16" />
+    <img src="https://img.icons8.com/external-becris-lineal-color-becris/64/null/external-algorithm-coding-programming-becris-lineal-color-becris.png" alt="algorithm" width="16" height="16" />
     <a href="https://github.com/exp-ext/algorithms">algorithms</a> 
   </li>
    <li>
-    <img src="https://img.icons8.com/doodle/48/null/large-tree.png" alt="algorithm" width="16 height="16" />
+    <img src="https://img.icons8.com/doodle/48/null/large-tree.png" alt="algorithm" width="16" height="16" />
     <a href="https://github.com/exp-ext/treemenu">tree menu <strong>/ Django</strong></a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/nolan/64/calculator--v1.png" alt="calculator" width="16 height="16" />
+    <img src="https://img.icons8.com/nolan/64/calculator--v1.png" alt="calculator" width="16" height="16" />
     <a href="https://github.com/exp-ext/calculator">pattern calculator </a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/dusk/64/current-mobile-bank.png" alt="paychecks" width="16 height="16" />
+    <img src="https://img.icons8.com/dusk/64/current-mobile-bank.png" alt="paychecks" width="16" height="16" />
     <a href="https://github.com/exp-ext/current_paychecks">current paychecks <strong>/ FastAPI</strong></a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/fluency/48/test.png" alt="paychecks" width="16 height="16" />
+    <img src="https://img.icons8.com/fluency/48/test.png" alt="paychecks" width="16" height="16" />
     <a href="https://github.com/exp-ext/aprbot">common test</a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/cute-clipart/64/triller-app.png" alt="social" width="16 height="16" />
+    <img src="https://img.icons8.com/cute-clipart/64/triller-app.png" alt="social" width="16" height="16" />
     <a href="https://github.com/exp-ext/social_network">social networking <strong>/ FastAPI</strong></a> 
   </li>  
 </ul>
@@ -69,7 +69,7 @@
 <p>Hackathons and other competitions:</p>
 <ul>
   <li>
-    <img src="https://img.icons8.com/fluency/48/store-setting.png" alt="packer" width="16 height="16" />
+    <img src="https://img.icons8.com/fluency/48/store-setting.png" alt="packer" width="16" height="16" />
     <a href="https://github.com/hackathon-team-5/goods_packer">goods packer <strong>/ DRF</strong></a> 
   </li>
 </ul>
@@ -77,7 +77,7 @@
 <p>Templates for development:</p>
 <ul>
   <li>
-    <img src="https://img.icons8.com/arcade/64/null/bot.png" alt="algorithm" width="16 height="16" />
+    <img src="https://img.icons8.com/arcade/64/null/bot.png" alt="algorithm" width="16" height="16" />
     <a href="https://github.com/exp-ext/django_aiogram_tgbot">django aiogram tgbot</a> 
   </li>
   <li>
@@ -85,7 +85,7 @@
     <a href="https://github.com/exp-ext/django_ptb ">django python-telegram-bot</a> 
   </li>
   <li>
-    <img src="https://img.icons8.com/stickers/100/rich-text-converter.png" alt="python-telegram-bot" width="16 height="16" />
+    <img src="https://img.icons8.com/stickers/100/rich-text-converter.png" alt="python-telegram-bot" width="16" height="16" />
     <a href="https://github.com/exp-ext/drf_project_template/tree/main/backend/api/management/commands">management command to convert data from a file to Django model</a> 
   </li>
 </ul>
