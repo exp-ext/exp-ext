@@ -35,6 +35,10 @@
     <img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/external-doctors-medical-ecommerce-flaticons-lineal-color-flat-icons.png" alt="todo" width="16" height="16" />
     <a href="https://github.com/exp-ext/ticket_gorzdrav"> GorZdrav parsing <strong>/ Selenium</strong></a>
   </strong>
+  <strong>  
+    <img src="https://img.icons8.com/pastel-glyph/64/tree.png" alt="tree" width="16" height="16" />
+    <a href="https://github.com/exp-ext/comment_tree"> Comment tree with ranking by score </a>
+  </strong
 </li>
 </ul>
                                                          
