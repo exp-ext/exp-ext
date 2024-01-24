@@ -38,7 +38,7 @@
 </li>
 <li>
   <strong>  
-    <img src="https://img.icons8.com/pastel-glyph/64/tree.png" alt="tree" width="16" height="16" />
+    <img src="https://img.icons8.com/cotton/64/tree.png" alt="tree" width="16" height="16" />
     <a href="https://github.com/exp-ext/comment_tree"> Comment tree with ranking by score </a>
   </strong>
 </li>
