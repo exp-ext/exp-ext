@@ -83,12 +83,16 @@
 <p>Templates for development:</p>
 <ul>
   <li>
+    <img width="16" height="16" src="https://img.icons8.com/clouds/16/upload.png" alt="upload"/>
+    <a href="https://github.com/exp-ext/upload">file upload <strong>/ JS / DRF</strong></a> 
+  </li>
+  <li>
     <img src="https://img.icons8.com/arcade/64/null/bot.png" alt="algorithm" width="16" height="16" />
-    <a href="https://github.com/exp-ext/django_aiogram_tgbot">django aiogram tgbot</a> 
+    <a href="https://github.com/exp-ext/django_aiogram_tgbot">django aiogram tgbot <strong>/ DRF</strong></a> 
   </li>
   <li>
     <img src="https://img.icons8.com/external-icongeek26-outline-colour-icongeek26/64/null/external-robot-artificial-intelligence-icongeek26-outline-colour-icongeek26-3.png" alt="python-telegram-bot" width="16 height="16" />
-    <a href="https://github.com/exp-ext/django_ptb ">django python-telegram-bot</a> 
+    <a href="https://github.com/exp-ext/django_ptb ">django python-telegram-bot <strong>/ DRF</strong></a> 
   </li>
   <li>
     <img src="https://img.icons8.com/stickers/100/rich-text-converter.png" alt="python-telegram-bot" width="16" height="16" />
